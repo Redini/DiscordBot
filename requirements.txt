@@ -2,8 +2,6 @@ discord.py
 asyncio
 logging
 yt_dlp
-google.auth.transport.requests
-google.oauth2.credentials
-google_auth_oauthlib.flow
-googleapiclient.discovery
-googleapiclient.errors
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
