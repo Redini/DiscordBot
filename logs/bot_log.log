@@ -1,0 +1,827 @@
+2025-02-02 22:41:00,961 - INFO - Logging system initialized!
+2025-02-02 22:41:01,064 - INFO - logging in using static token
+2025-02-02 22:41:01,939 - INFO - Shard ID None has connected to Gateway (Session ID: 96af5692ddc250d3ca6ca1f079800f4b).
+2025-02-03 00:06:47,722 - INFO - Shard ID None has successfully RESUMED session 96af5692ddc250d3ca6ca1f079800f4b.
+2025-02-04 16:39:44,370 - INFO - Logging system initialized!
+2025-02-04 16:39:44,507 - INFO - logging in using static token
+2025-02-04 16:39:45,646 - INFO - Shard ID None has connected to Gateway (Session ID: 7346109bfe42fedb665a88c33af92d3d).
+2025-02-04 18:56:34,817 - INFO - Shard ID None has successfully RESUMED session 7346109bfe42fedb665a88c33af92d3d.
+2025-02-04 20:22:58,819 - INFO - Shard ID None has successfully RESUMED session 7346109bfe42fedb665a88c33af92d3d.
+2025-02-04 21:19:03,687 - INFO - Shard ID None has successfully RESUMED session 7346109bfe42fedb665a88c33af92d3d.
+2025-02-04 22:10:35,951 - INFO - Shard ID None has successfully RESUMED session 7346109bfe42fedb665a88c33af92d3d.
+2025-02-04 22:54:27,247 - INFO - Connecting to voice...
+2025-02-04 22:54:27,247 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-04 22:54:27,503 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-04 22:54:27,798 - INFO - Voice connection complete.
+2025-02-04 22:54:39,048 - INFO - [£awica Ryb Tysi] Fetching song(s) from URL: tacohemingway
+2025-02-04 22:54:43,416 - INFO - [£awica Ryb Tysi] Added 1 songs from playlist to queue.
+2025-02-04 22:54:43,686 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - "Nastêpna stacja" (prod. Rumak)
+2025-02-04 22:57:28,847 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-04 22:57:29,111 - INFO - ffmpeg process 33528 successfully terminated with return code of 0.
+2025-02-04 23:01:28,816 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-04 23:10:24,937 - INFO - Logging system initialized!
+2025-02-04 23:10:25,701 - INFO - logging in using static token
+2025-02-04 23:10:26,741 - INFO - Shard ID None has connected to Gateway (Session ID: 9d3e370d14b8ace8c04c578a00186ad5).
+2025-02-04 23:10:33,058 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "join" is not found
+2025-02-04 23:12:35,464 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "join" is not found
+2025-02-04 23:15:45,617 - INFO - Logging system initialized!
+2025-02-04 23:15:45,803 - INFO - logging in using static token
+2025-02-04 23:15:46,730 - INFO - Shard ID None has connected to Gateway (Session ID: d1c1f46b29a8fb4b39b2223dc9e24b30).
+2025-02-04 23:15:52,920 - INFO - Connecting to voice...
+2025-02-04 23:15:52,921 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-04 23:15:53,173 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-04 23:15:53,476 - INFO - Voice connection complete.
+2025-02-04 23:16:00,978 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "play" is not found
+2025-02-04 23:19:12,446 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-04 23:19:40,066 - INFO - Logging system initialized!
+2025-02-04 23:19:40,308 - INFO - logging in using static token
+2025-02-04 23:19:41,304 - INFO - Shard ID None has connected to Gateway (Session ID: fa512957d9b459fd249c5a44ae210958).
+2025-02-04 23:19:53,341 - INFO - Connecting to voice...
+2025-02-04 23:19:53,343 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-04 23:19:53,566 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-04 23:19:53,848 - INFO - Voice connection complete.
+2025-02-04 23:19:59,373 - ERROR - [£awica Ryb Tysi] Failed to retrieve song: ERROR: [generic] 'tacohemingway' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:tacohemingway" ) to search YouTube
+2025-02-04 23:19:59,727 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-04 23:20:39,229 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - "Nostalgia" (prod. Rumak)
+2025-02-04 23:22:57,189 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-04 23:22:57,485 - INFO - ffmpeg process 12940 successfully terminated with return code of 0.
+2025-02-04 23:27:29,433 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-04 23:27:59,158 - INFO - Logging system initialized!
+2025-02-04 23:27:59,376 - INFO - logging in using static token
+2025-02-04 23:28:00,250 - INFO - Shard ID None has connected to Gateway (Session ID: ca1d5d751f8df483c949ad784c1d0549).
+2025-02-04 23:28:05,683 - INFO - Connecting to voice...
+2025-02-04 23:28:05,683 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-04 23:28:05,906 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-04 23:28:06,202 - INFO - Voice connection complete.
+2025-02-04 23:28:12,918 - ERROR - [£awica Ryb Tysi] Failed to retrieve song: 'list' object has no attribute 'title'
+2025-02-04 23:28:13,127 - ERROR - Ignoring exception in command play
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 121, in play_next
+    voice_client.play(next_song, after=after_playing)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_client.py", line 484, in play
+    raise TypeError(f'source must be an AudioSource not {source.__class__.__name__}')
+TypeError: source must be an AudioSource not list
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 173, in play
+    await play_next(ctx)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 125, in play_next
+    logger.error(f"[{ctx.guild.name}] Failed to play {next_song.title}: {e}")
+                                                      ^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'title'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'list' object has no attribute 'title'
+2025-02-04 23:28:13,173 - INFO - ffmpeg process 36272 has not terminated. Waiting to terminate...
+2025-02-04 23:28:13,178 - INFO - ffmpeg process 36272 should have terminated with a return code of 1.
+2025-02-04 23:28:33,705 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Pakiet Platinium (prod. Rumak)
+2025-02-04 23:32:43,857 - ERROR - [£awica Ryb Tysi] Failed to retrieve song: 'list' object has no attribute 'title'
+2025-02-04 23:32:45,046 - ERROR - [£awica Ryb Tysi] Error in play_next: 'list' object has no attribute 'title'
+2025-02-04 23:32:45,047 - INFO - ffmpeg process 37940 successfully terminated with return code of 0.
+2025-02-04 23:35:49,150 - INFO - ffmpeg process 32216 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,156 - INFO - ffmpeg process 32216 should have terminated with a return code of 1.
+2025-02-04 23:35:49,157 - INFO - ffmpeg process 5668 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,162 - INFO - ffmpeg process 5668 should have terminated with a return code of 1.
+2025-02-04 23:35:49,163 - INFO - ffmpeg process 35060 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,167 - INFO - ffmpeg process 35060 should have terminated with a return code of 1.
+2025-02-04 23:35:49,167 - INFO - ffmpeg process 34224 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,172 - INFO - ffmpeg process 34224 should have terminated with a return code of 1.
+2025-02-04 23:35:49,172 - INFO - ffmpeg process 37832 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,179 - INFO - ffmpeg process 37832 should have terminated with a return code of 1.
+2025-02-04 23:35:49,179 - INFO - ffmpeg process 31124 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,187 - INFO - ffmpeg process 31124 should have terminated with a return code of 1.
+2025-02-04 23:35:49,187 - INFO - ffmpeg process 37036 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,194 - INFO - ffmpeg process 37036 should have terminated with a return code of 1.
+2025-02-04 23:35:49,195 - INFO - ffmpeg process 10644 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,200 - INFO - ffmpeg process 10644 should have terminated with a return code of 1.
+2025-02-04 23:35:49,201 - INFO - ffmpeg process 36480 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,206 - INFO - ffmpeg process 36480 should have terminated with a return code of 1.
+2025-02-04 23:35:49,207 - INFO - ffmpeg process 6140 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,212 - INFO - ffmpeg process 6140 should have terminated with a return code of 1.
+2025-02-04 23:35:49,213 - INFO - ffmpeg process 10960 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,219 - INFO - ffmpeg process 10960 should have terminated with a return code of 1.
+2025-02-04 23:35:49,220 - INFO - ffmpeg process 38548 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,228 - INFO - ffmpeg process 38548 should have terminated with a return code of 1.
+2025-02-04 23:35:49,228 - INFO - ffmpeg process 21748 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,237 - INFO - ffmpeg process 21748 should have terminated with a return code of 1.
+2025-02-04 23:35:49,238 - INFO - ffmpeg process 36912 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,244 - INFO - ffmpeg process 36912 should have terminated with a return code of 1.
+2025-02-04 23:35:49,245 - INFO - ffmpeg process 37376 has not terminated. Waiting to terminate...
+2025-02-04 23:35:49,254 - INFO - ffmpeg process 37376 should have terminated with a return code of 1.
+2025-02-04 23:35:51,980 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - 1-800-OŒWIECENIE (prod. Rumak)
+2025-02-04 23:37:24,081 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-04 23:37:24,394 - INFO - ffmpeg process 11392 successfully terminated with return code of 0.
+2025-02-04 23:40:09,504 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-04 23:40:34,020 - INFO - Logging system initialized!
+2025-02-04 23:40:34,128 - INFO - logging in using static token
+2025-02-04 23:40:35,043 - INFO - Shard ID None has connected to Gateway (Session ID: 254eec0c1d7234463a8c45b4377de498).
+2025-02-04 23:40:42,626 - INFO - Connecting to voice...
+2025-02-04 23:40:42,627 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-04 23:40:42,854 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-04 23:40:43,157 - INFO - Voice connection complete.
+2025-02-04 23:41:19,293 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Fiji (prod. Borucci)
+2025-02-04 23:45:21,876 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - 1-800-OŒWIECENIE (prod. Rumak)
+2025-02-04 23:45:22,207 - INFO - ffmpeg process 23196 successfully terminated with return code of 0.
+2025-02-04 23:45:28,656 - INFO - [£awica Ryb Tysi] Now playing: CYPHER2022
+2025-02-04 23:45:28,987 - INFO - ffmpeg process 39928 has not terminated. Waiting to terminate...
+2025-02-04 23:45:28,992 - INFO - ffmpeg process 39928 should have terminated with a return code of 1.
+2025-02-04 23:48:39,638 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - wielkomiejska bezsennoœæ #1
+2025-02-04 23:48:39,984 - INFO - ffmpeg process 17792 successfully terminated with return code of 0.
+2025-02-04 23:49:14,859 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Cichosza feat. Otsochodzi (prod. Zeppy Zep)
+2025-02-04 23:49:15,165 - INFO - ffmpeg process 23836 successfully terminated with return code of 0.
+2025-02-04 23:51:28,820 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Mo¿e To Coœ Zmieni? (prod. @atutowy, Borucci)
+2025-02-04 23:51:29,134 - INFO - ffmpeg process 32384 successfully terminated with return code of 0.
+2025-02-04 23:51:34,662 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Pakiet Platinium (prod. Rumak)
+2025-02-04 23:51:34,916 - INFO - ffmpeg process 39084 successfully terminated with return code of 0.
+2025-02-04 23:53:18,023 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Mix Sa³at feat. Daria Zawia³ow (prod. Zeppy Zep)
+2025-02-04 23:53:18,454 - INFO - ffmpeg process 23884 successfully terminated with return code of 0.
+2025-02-04 23:53:18,963 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Codziennie (prod. @atutowy)
+2025-02-04 23:53:19,221 - INFO - ffmpeg process 15988 successfully terminated with return code of 0.
+2025-02-04 23:53:20,766 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - 1000 Dni Freestyle (prod. Zeppy Zep)
+2025-02-04 23:53:20,965 - INFO - ffmpeg process 15796 successfully terminated with return code of 0.
+2025-02-04 23:53:22,508 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Nametag feat. schafter, OKI (prod. @atutowy)
+2025-02-04 23:53:22,709 - INFO - ffmpeg process 38436 successfully terminated with return code of 0.
+2025-02-04 23:53:23,308 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Ca³e Lata feat. Dawid Podsiad³o (prod. @atutowy)
+2025-02-04 23:53:23,529 - INFO - ffmpeg process 30920 successfully terminated with return code of 0.
+2025-02-04 23:53:24,331 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Niedziela feat. schafter (prod. Borucci, Zeppy Zep)
+2025-02-04 23:53:24,523 - INFO - ffmpeg process 39112 successfully terminated with return code of 0.
+2025-02-04 23:53:26,093 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Main Stage Freestyle (prod. Borucci)
+2025-02-04 23:53:26,368 - INFO - ffmpeg process 36740 successfully terminated with return code of 0.
+2025-02-04 23:53:28,094 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - EINECEIWŒO 008-1 (prod. Rumak)
+2025-02-04 23:53:28,289 - INFO - ffmpeg process 33800 successfully terminated with return code of 0.
+2025-02-04 23:53:30,075 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Gelato (prod. Rumak)
+2025-02-04 23:53:30,391 - INFO - ffmpeg process 35444 successfully terminated with return code of 0.
+2025-02-04 23:53:31,817 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Makarena Freestyle (prod. Rumak)
+2025-02-04 23:53:32,040 - INFO - ffmpeg process 14448 successfully terminated with return code of 0.
+2025-02-04 23:53:35,959 - INFO - [£awica Ryb Tysi] Now playing: club2020
+2025-02-04 23:53:36,169 - INFO - ffmpeg process 35652 successfully terminated with return code of 0.
+2025-02-04 23:53:38,239 - INFO - [£awica Ryb Tysi] Now playing: Yin Yang
+2025-02-04 23:53:38,432 - INFO - ffmpeg process 8776 successfully terminated with return code of 0.
+2025-02-04 23:53:40,261 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Luxembourg (prod. Lanek)
+2025-02-04 23:53:40,488 - INFO - ffmpeg process 37732 successfully terminated with return code of 0.
+2025-02-04 23:53:43,002 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Grand Prix (prod. Borucci)
+2025-02-04 23:53:43,275 - INFO - ffmpeg process 38760 successfully terminated with return code of 0.
+2025-02-04 23:53:44,824 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Europa feat. Bedoes (prod. Zeppy Zep)
+2025-02-04 23:53:45,030 - INFO - ffmpeg process 31772 successfully terminated with return code of 0.
+2025-02-04 23:53:47,225 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Pireneje (prod. 2latefor & d3w)
+2025-02-04 23:53:47,429 - INFO - ffmpeg process 39116 successfully terminated with return code of 0.
+2025-02-04 23:53:49,247 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-04 23:53:49,447 - INFO - ffmpeg process 37432 successfully terminated with return code of 0.
+2025-02-04 23:54:10,159 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-04 23:54:29,892 - INFO - Logging system initialized!
+2025-02-04 23:54:30,009 - INFO - logging in using static token
+2025-02-04 23:54:30,974 - INFO - Shard ID None has connected to Gateway (Session ID: 36df6c48c993d56b5f3200befb90a877).
+2025-02-04 23:54:35,849 - INFO - Connecting to voice...
+2025-02-04 23:54:35,850 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-04 23:54:36,077 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-04 23:54:36,349 - INFO - Voice connection complete.
+2025-02-04 23:59:25,318 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "stop" is not found
+2025-02-04 23:59:27,503 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "clear" is not found
+2025-02-04 23:59:30,323 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-04 23:59:34,968 - INFO - Connecting to voice...
+2025-02-04 23:59:34,995 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-04 23:59:35,299 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-04 23:59:35,843 - INFO - Voice connection complete.
+2025-02-04 23:59:39,987 - ERROR - [£awica Ryb Tysi] Failed to retrieve song: argument of type 'NoneType' is not iterable
+2025-02-04 23:59:40,331 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-04 23:59:51,837 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 00:00:01,259 - INFO - Logging system initialized!
+2025-02-05 00:00:01,379 - INFO - logging in using static token
+2025-02-05 00:00:02,530 - INFO - Shard ID None has connected to Gateway (Session ID: ac4f2ee12e7f0091f406220e728fa6d3).
+2025-02-05 00:00:04,463 - INFO - Connecting to voice...
+2025-02-05 00:00:04,463 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 00:00:04,686 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 00:00:04,982 - INFO - Voice connection complete.
+2025-02-05 00:00:45,378 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - wielkomiejska bezsennoœæ #1
+2025-02-05 00:00:50,938 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - 1-800-OŒWIECENIE (prod. Rumak)
+2025-02-05 00:00:51,435 - INFO - ffmpeg process 35896 has not terminated. Waiting to terminate...
+2025-02-05 00:00:51,440 - INFO - ffmpeg process 35896 should have terminated with a return code of 1.
+2025-02-05 00:00:52,699 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Cichosza feat. Otsochodzi (prod. Zeppy Zep)
+2025-02-05 00:00:52,901 - INFO - ffmpeg process 36648 has not terminated. Waiting to terminate...
+2025-02-05 00:00:52,906 - INFO - ffmpeg process 36648 should have terminated with a return code of 1.
+2025-02-05 00:00:54,640 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Gelato (prod. Rumak)
+2025-02-05 00:00:54,840 - INFO - ffmpeg process 38124 has not terminated. Waiting to terminate...
+2025-02-05 00:00:54,845 - INFO - ffmpeg process 38124 should have terminated with a return code of 1.
+2025-02-05 00:04:39,322 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Mo¿e To Coœ Zmieni? (prod. @atutowy, Borucci)
+2025-02-05 00:04:39,601 - INFO - ffmpeg process 35548 successfully terminated with return code of 0.
+2025-02-05 00:07:52,503 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Pakiet Platinium (prod. Rumak)
+2025-02-05 00:07:52,799 - INFO - ffmpeg process 37288 successfully terminated with return code of 0.
+2025-02-05 00:09:47,765 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Makarena Freestyle (prod. Rumak)
+2025-02-05 00:09:48,037 - INFO - ffmpeg process 17876 successfully terminated with return code of 0.
+2025-02-05 00:09:57,767 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Mix Sa³at feat. Daria Zawia³ow (prod. Zeppy Zep)
+2025-02-05 00:09:57,986 - INFO - ffmpeg process 25580 successfully terminated with return code of 0.
+2025-02-05 00:10:07,767 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Codziennie (prod. @atutowy)
+2025-02-05 00:10:07,977 - INFO - ffmpeg process 39544 successfully terminated with return code of 0.
+2025-02-05 00:10:09,609 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - 1000 Dni Freestyle (prod. Zeppy Zep)
+2025-02-05 00:10:09,841 - INFO - ffmpeg process 31544 successfully terminated with return code of 0.
+2025-02-05 00:10:12,491 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Nametag feat. schafter, OKI (prod. @atutowy)
+2025-02-05 00:10:12,721 - INFO - ffmpeg process 25524 successfully terminated with return code of 0.
+2025-02-05 00:10:14,334 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Ca³e Lata feat. Dawid Podsiad³o (prod. @atutowy)
+2025-02-05 00:10:14,564 - INFO - ffmpeg process 30584 successfully terminated with return code of 0.
+2025-02-05 00:10:17,196 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Niedziela feat. schafter (prod. Borucci, Zeppy Zep)
+2025-02-05 00:10:17,428 - INFO - ffmpeg process 39508 successfully terminated with return code of 0.
+2025-02-05 00:10:20,058 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - Main Stage Freestyle (prod. Borucci)
+2025-02-05 00:10:20,313 - INFO - ffmpeg process 40816 successfully terminated with return code of 0.
+2025-02-05 00:10:21,899 - INFO - [£awica Ryb Tysi] Now playing: Taco Hemingway - EINECEIWŒO 008-1 (prod. Rumak)
+2025-02-05 00:10:22,242 - INFO - ffmpeg process 3020 successfully terminated with return code of 0.
+2025-02-05 00:10:24,780 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-05 00:10:25,021 - INFO - ffmpeg process 38232 successfully terminated with return code of 0.
+2025-02-05 00:14:19,707 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 00:14:41,352 - INFO - Logging system initialized!
+2025-02-05 00:14:41,471 - INFO - logging in using static token
+2025-02-05 00:14:42,502 - INFO - Shard ID None has connected to Gateway (Session ID: 89be76b657b5b35aa643da8fb616b993).
+2025-02-05 00:14:47,847 - INFO - Connecting to voice...
+2025-02-05 00:14:47,847 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 00:14:48,086 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 00:14:48,390 - INFO - Voice connection complete.
+2025-02-05 00:15:20,380 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-05 00:16:02,976 - INFO - [£awica Ryb Tysi] Now playing: ZEPPY ZEP & BORUCCI - TACO HEMINGWAY WARMUP SET 2022
+2025-02-05 00:21:28,309 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 00:21:28,317 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-05 00:21:28,736 - INFO - ffmpeg process 35232 has not terminated. Waiting to terminate...
+2025-02-05 00:21:28,743 - INFO - ffmpeg process 35232 should have terminated with a return code of 1.
+2025-02-05 00:21:44,655 - INFO - Logging system initialized!
+2025-02-05 00:21:44,779 - INFO - logging in using static token
+2025-02-05 00:21:45,694 - INFO - Shard ID None has connected to Gateway (Session ID: e2c4ef138df990bc448462f2d831f256).
+2025-02-05 00:21:50,412 - INFO - Connecting to voice...
+2025-02-05 00:21:50,413 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 00:21:50,644 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 00:21:50,938 - INFO - Voice connection complete.
+2025-02-05 00:23:03,540 - INFO - [£awica Ryb Tysi] Playing: POCZTÓWKA Z WWA, LATO '19 (downloads\POCZTÓWKA Z WWA, LATO '19.NA)
+2025-02-05 00:23:03,542 - INFO - [£awica Ryb Tysi] Finished playing: POCZTÓWKA Z WWA, LATO '19
+2025-02-05 00:23:03,544 - ERROR - Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\player.py", line 784, in _call_after
+    self.after(error)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 97, in after_playing
+    os.remove(next_song.file_path)  # Delete file after playing
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [WinError 2] Nie mo¿na odnaleŸæ okreœlonego pliku: "downloads\\POCZTÓWKA Z WWA, LATO '19.NA"
+2025-02-05 00:23:03,556 - INFO - ffmpeg process 41632 successfully terminated with return code of 4294967294.
+2025-02-05 00:28:58,778 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 00:29:50,786 - INFO - Logging system initialized!
+2025-02-05 00:29:50,892 - INFO - logging in using static token
+2025-02-05 00:29:51,706 - INFO - Shard ID None has connected to Gateway (Session ID: 0cea6440e08d0d85115f69383852b6dd).
+2025-02-05 00:30:43,358 - ERROR - Ignoring exception in command play
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 1021, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 938, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 853, in _parse_arguments
+    kwargs[name] = await self.transform(ctx, param, attachments)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 697, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: query is a required argument that is missing.
+2025-02-05 00:30:44,898 - INFO - Connecting to voice...
+2025-02-05 00:30:44,899 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 00:30:45,122 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 00:30:45,403 - INFO - Voice connection complete.
+2025-02-05 00:31:19,867 - INFO - [£awica Ryb Tysi] Playing: POCZTÓWKA Z WWA, LATO '19 (downloads\POCZTOWKA_Z_WWA_LATO_19.NA)
+2025-02-05 00:31:19,870 - INFO - [£awica Ryb Tysi] Finished playing: POCZTÓWKA Z WWA, LATO '19
+2025-02-05 00:31:19,871 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-05 00:31:20,195 - INFO - ffmpeg process 40528 successfully terminated with return code of 4294967294.
+2025-02-05 00:33:10,413 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 00:34:00,885 - INFO - logging in using static token
+2025-02-05 00:34:01,871 - INFO - Shard ID None has connected to Gateway (Session ID: 5d91b79b32c574ac9e6153cec200c18e).
+2025-02-05 00:34:08,889 - INFO - Connecting to voice...
+2025-02-05 00:34:08,889 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 00:34:09,110 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 00:34:09,386 - INFO - Voice connection complete.
+2025-02-05 00:35:08,923 - ERROR - File not found after download: C:\Users\domin\PycharmProjects\DiscordBot\bot\CUsersdominPycharmProjectsDiscordBotbotdownloadsPOCZTOWKA_Z_WWA_LATO_19.NA
+2025-02-05 00:42:47,178 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 00:46:09,329 - INFO - logging in using static token
+2025-02-05 00:46:10,197 - INFO - Shard ID None has connected to Gateway (Session ID: aae8c7a629bcc3ab69c2103140417d24).
+2025-02-05 00:46:11,925 - INFO - Connecting to voice...
+2025-02-05 00:46:11,925 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 00:46:12,181 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 00:46:12,482 - INFO - Voice connection complete.
+2025-02-05 00:46:17,276 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Everytime_We_Touch_Hardstyle.m4a
+2025-02-05 00:46:17,487 - INFO - [£awica Ryb Tysi] Playing: Everytime We Touch (Hardstyle) (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Everytime_We_Touch_Hardstyle.m4a)
+2025-02-05 00:49:16,010 - INFO - [£awica Ryb Tysi] Finished playing: Everytime We Touch (Hardstyle)
+2025-02-05 00:49:16,011 - INFO - Deleted file: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Everytime_We_Touch_Hardstyle.m4a
+2025-02-05 00:49:16,011 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-05 00:49:16,315 - INFO - ffmpeg process 3844 successfully terminated with return code of 0.
+2025-02-05 00:49:51,540 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Kendrick_Lamar_-_Not_Like_Us.m4a
+2025-02-05 00:49:51,752 - INFO - [£awica Ryb Tysi] Playing: Kendrick Lamar - Not Like Us (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Kendrick_Lamar_-_Not_Like_Us.m4a)
+2025-02-05 00:55:46,094 - INFO - [£awica Ryb Tysi] Finished playing: Kendrick Lamar - Not Like Us
+2025-02-05 00:55:46,095 - INFO - Deleted file: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Kendrick_Lamar_-_Not_Like_Us.m4a
+2025-02-05 00:55:46,096 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-05 00:55:46,371 - INFO - ffmpeg process 41208 successfully terminated with return code of 0.
+2025-02-05 00:58:54,661 - ERROR - File not found after download: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Quebonafide_Top_10.NA
+2025-02-05 00:59:17,103 - ERROR - File not found after download: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\zadnych_zamrtwien.NA
+2025-02-05 01:00:02,719 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\QUEBONAFIDE_-_FUTURAMA_3.m4a
+2025-02-05 01:00:03,153 - INFO - [£awica Ryb Tysi] Playing: QUEBONAFIDE - FUTURAMA 3 (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\QUEBONAFIDE_-_FUTURAMA_3.m4a)
+2025-02-05 01:01:46,017 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Quebonafide_-_SZUBIENICAPESTYCYDYBRO.m4a
+2025-02-05 01:04:41,454 - INFO - [£awica Ryb Tysi] Finished playing: QUEBONAFIDE - FUTURAMA 3
+2025-02-05 01:04:41,455 - INFO - Deleted file: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\QUEBONAFIDE_-_FUTURAMA_3.m4a
+2025-02-05 01:04:41,455 - INFO - [£awica Ryb Tysi] Playing: Quebonafide - SZUBIENICAPESTYCYDYBROÑ (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Quebonafide_-_SZUBIENICAPESTYCYDYBRO.m4a)
+2025-02-05 01:04:41,748 - INFO - ffmpeg process 40840 successfully terminated with return code of 0.
+2025-02-05 01:09:27,277 - INFO - [£awica Ryb Tysi] Finished playing: Quebonafide - SZUBIENICAPESTYCYDYBROÑ
+2025-02-05 01:09:27,278 - INFO - Deleted file: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Quebonafide_-_SZUBIENICAPESTYCYDYBRO.m4a
+2025-02-05 01:09:27,278 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-05 01:09:27,579 - INFO - ffmpeg process 41436 successfully terminated with return code of 0.
+2025-02-05 01:11:35,267 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 01:12:02,412 - INFO - logging in using static token
+2025-02-05 01:12:03,471 - INFO - Shard ID None has connected to Gateway (Session ID: 37632e2163cb835263902637fe058414).
+2025-02-05 01:12:06,219 - INFO - Connecting to voice...
+2025-02-05 01:12:06,219 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 01:12:06,440 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 01:12:06,730 - INFO - Voice connection complete.
+2025-02-05 01:15:00,860 - ERROR - File not found after download: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Quebonafide_-_ROMANTIC_PSYCHO_-_ODS_UCH_HD_QueQuality.NA
+2025-02-05 01:15:16,932 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 01:15:29,633 - INFO - logging in using static token
+2025-02-05 01:15:30,531 - INFO - Shard ID None has connected to Gateway (Session ID: 61e33e6d3149ff536cf09c186c28e323).
+2025-02-05 01:15:31,906 - INFO - Connecting to voice...
+2025-02-05 01:15:31,906 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 01:15:32,127 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 01:15:32,393 - INFO - Voice connection complete.
+2025-02-05 01:18:44,600 - ERROR - File not found after download: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Quebonafide_-_ROMANTIC_PSYCHO_-_ODS_UCH_HD_QueQuality.NA
+2025-02-05 01:23:40,875 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 01:23:51,610 - INFO - logging in using static token
+2025-02-05 01:23:52,515 - INFO - Shard ID None has connected to Gateway (Session ID: 85cc73b0f0e8b221216f59c13697a3b9).
+2025-02-05 01:23:54,904 - INFO - Connecting to voice...
+2025-02-05 01:23:54,904 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 01:23:55,141 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 01:23:55,415 - INFO - Voice connection complete.
+2025-02-05 01:24:26,074 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 01:29:54,741 - INFO - logging in using static token
+2025-02-05 01:29:55,646 - INFO - Shard ID None has connected to Gateway (Session ID: 6540d6bb48a63ae68f40a4376fc4dad5).
+2025-02-05 01:30:11,018 - INFO - Connecting to voice...
+2025-02-05 01:30:11,018 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 01:30:11,249 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 01:30:11,534 - INFO - Voice connection complete.
+2025-02-05 01:32:50,225 - ERROR - File not found after download: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Quebonafide_-_ROMANTIC_PSYCHO_-_ODS_UCH_HD_QueQuality.m4a
+2025-02-05 01:35:27,967 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Taco_Hemingway_-_POLSKIE_TANGO_prod._Lanek.m4a
+2025-02-05 01:35:28,304 - INFO - [£awica Ryb Tysi] Playing: Taco Hemingway - POLSKIE TANGO (prod. Lanek) (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Taco_Hemingway_-_POLSKIE_TANGO_prod._Lanek.m4a)
+2025-02-05 01:35:46,251 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "skip" is not found
+2025-02-05 01:38:09,383 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 01:38:09,385 - INFO - [£awica Ryb Tysi] Finished playing: Taco Hemingway - POLSKIE TANGO (prod. Lanek)
+2025-02-05 01:38:09,385 - ERROR - Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\player.py", line 784, in _call_after
+    self.after(error)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 133, in after_playing
+    os.remove(next_song.file_path)  # Delete file after playing
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\Taco_Hemingway_-_POLSKIE_TANGO_prod._Lanek.m4a'
+2025-02-05 01:38:09,386 - INFO - ffmpeg process 40824 has not terminated. Waiting to terminate...
+2025-02-05 01:38:09,390 - INFO - ffmpeg process 40824 should have terminated with a return code of 1.
+2025-02-05 01:38:33,027 - INFO - logging in using static token
+2025-02-05 01:38:35,548 - INFO - logging in using static token
+2025-02-05 01:38:36,492 - INFO - Shard ID None has connected to Gateway (Session ID: 3c91374eee649efdad20bdceb935ff84).
+2025-02-05 01:38:42,321 - INFO - Connecting to voice...
+2025-02-05 01:38:42,321 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 01:38:42,545 - INFO - Voice handshake complete. Endpoint found: rotterdam8575.discord.media
+2025-02-05 01:38:42,833 - INFO - Voice connection complete.
+2025-02-05 01:38:53,092 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Taco_Hemingway_-_POLSKIE_TANGO_prod._Lanek.m4a
+2025-02-05 01:38:53,508 - INFO - [£awica Ryb Tysi] Playing: Taco Hemingway - POLSKIE TANGO (prod. Lanek) (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Taco_Hemingway_-_POLSKIE_TANGO_prod._Lanek.m4a)
+2025-02-05 01:40:27,228 - ERROR - File not found after download: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Flagey.m4a
+2025-02-05 01:41:15,861 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-02-05 01:41:15,870 - INFO - [£awica Ryb Tysi] Finished playing: Taco Hemingway - POLSKIE TANGO (prod. Lanek)
+2025-02-05 01:41:15,870 - ERROR - Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\player.py", line 784, in _call_after
+    self.after(error)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 133, in after_playing
+    os.remove(next_song.file_path)  # Delete file after playing
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\Taco_Hemingway_-_POLSKIE_TANGO_prod._Lanek.m4a'
+2025-02-05 01:41:15,872 - INFO - ffmpeg process 9756 has not terminated. Waiting to terminate...
+2025-02-05 01:41:15,876 - INFO - ffmpeg process 9756 should have terminated with a return code of 1.
+2025-02-05 15:20:30,401 - INFO - logging in using static token
+2025-02-05 15:20:31,438 - INFO - Shard ID None has connected to Gateway (Session ID: d6f2ec32e67200b0151f6ced51241c4c).
+2025-02-05 15:20:43,353 - INFO - Connecting to voice...
+2025-02-05 15:20:43,353 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:20:43,574 - INFO - Voice handshake complete. Endpoint found: rotterdam11010.discord.media
+2025-02-05 15:20:43,857 - INFO - Voice connection complete.
+2025-02-05 15:25:17,103 - ERROR - [£awica Ryb Tysi] yt-dlp Error: ERROR: [youtube] RefubQegJK0: Video unavailable. This video is not available
+2025-02-05 15:25:17,320 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-05 15:28:03,514 - ERROR - File not found after download: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Quebo_-_Romantic_Psycho_Ca_y_Album.m4a
+2025-02-05 15:28:45,884 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:28:58,623 - INFO - logging in using static token
+2025-02-05 15:28:59,631 - INFO - Shard ID None has connected to Gateway (Session ID: 6c550bfab304eaa67d65e7116ae607fe).
+2025-02-05 15:29:06,683 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "join" is not found
+2025-02-05 15:29:42,824 - INFO - logging in using static token
+2025-02-05 15:29:43,676 - INFO - Shard ID None has connected to Gateway (Session ID: 90bbb10f0eeeb999e83cef81a0022e5c).
+2025-02-05 15:29:48,140 - INFO - Connecting to voice...
+2025-02-05 15:29:48,140 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:29:48,370 - INFO - Voice handshake complete. Endpoint found: rotterdam11010.discord.media
+2025-02-05 15:29:48,660 - INFO - Voice connection complete.
+2025-02-05 15:33:05,411 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:33:13,820 - INFO - logging in using static token
+2025-02-05 15:33:13,961 - INFO - logging in using static token
+2025-02-05 15:33:14,791 - INFO - Shard ID None has connected to Gateway (Session ID: f9288fdb3920725dbdf18bb031221400).
+2025-02-05 15:33:14,922 - INFO - Shard ID None has connected to Gateway (Session ID: 6522029a22a9a6684e8874dd9cb6a535).
+2025-02-05 15:33:18,034 - INFO - Connecting to voice...
+2025-02-05 15:33:18,034 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:33:18,035 - INFO - Connecting to voice...
+2025-02-05 15:33:18,035 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:33:18,356 - INFO - Voice handshake complete. Endpoint found: rotterdam11010.discord.media
+2025-02-05 15:33:18,685 - INFO - Voice connection complete.
+2025-02-05 15:33:48,026 - INFO - Timed out connecting to voice
+2025-02-05 15:33:48,026 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:33:48,026 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:34:00,511 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:34:04,129 - INFO - Connecting to voice...
+2025-02-05 15:34:04,129 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:34:04,137 - INFO - Connecting to voice...
+2025-02-05 15:34:04,137 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:34:04,459 - INFO - Voice handshake complete. Endpoint found: rotterdam11010.discord.media
+2025-02-05 15:34:04,721 - INFO - Voice connection complete.
+2025-02-05 15:34:08,331 - ERROR - [£awica Ryb Tysi] yt-dlp Error: argument of type 'NoneType' is not iterable
+2025-02-05 15:34:08,587 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-05 15:34:18,028 - ERROR - Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\domin\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 407, in _inner_connect
+    await self._wait_for_state(ConnectionFlowState.got_both_voice_updates)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 559, in _wait_for_state
+    await sane_wait_for([self._state_event.wait()], timeout=timeout)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\utils.py", line 714, in sane_wait_for
+    done, pending = await asyncio.wait(ensured, timeout=timeout, return_when=asyncio.ALL_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 464, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 550, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 183, in join
+    await channel.connect()
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\abc.py", line 1966, in connect
+    await voice.connect(timeout=timeout, reconnect=reconnect, self_deaf=self_deaf, self_mute=self_mute)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_client.py", line 305, in connect
+    await self._connection.connect(
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 380, in connect
+    await self._connector
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 384, in _wrap_connect
+    await self._connect(*args)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 429, in _connect
+    await asyncio.wait_for(
+  File "C:\Users\domin\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 519, in wait_for
+    async with timeouts.timeout(timeout):
+  File "C:\Users\domin\AppData\Local\Programs\Python\Python312\Lib\asyncio\timeouts.py", line 115, in __aexit__
+    raise TimeoutError from exc_val
+TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+2025-02-05 15:34:20,864 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\The_Shins_-_Simple_Song_Video.m4a
+2025-02-05 15:34:20,870 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Vladimir_Putin_-_Putin_Putout_The_Unofficial_Russian_Anthem_by_Klemen_Slakonja.m4a
+2025-02-05 15:34:20,875 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Alan_Walker_-_Sing_Me_To_Sleep.m4a
+2025-02-05 15:34:21,116 - INFO - [£awica Ryb Tysi] Playing: The Shins - Simple Song (Video) (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\The_Shins_-_Simple_Song_Video.m4a)
+2025-02-05 15:34:26,190 - ERROR - [£awica Ryb Tysi] yt-dlp Error: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\Vladimir_Putin_-_Putin_Putout_The_Unofficial_Russian_Anthem_by_Klemen_Slakonja.m4a' -> 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\Vladimir_Putin_-_Putin_Putout_The_Unofficial_Russian_Anthem_by_Klemen_Slakonja.m4a'
+2025-02-05 15:34:26,415 - INFO - [£awica Ryb Tysi] Queue is empty. No more songs to play.
+2025-02-05 15:34:34,127 - INFO - Timed out connecting to voice
+2025-02-05 15:34:34,127 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:34:34,127 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:34:59,362 - INFO - [£awica Ryb Tysi] Finished playing: The Shins - Simple Song (Video)
+2025-02-05 15:34:59,363 - ERROR - Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\player.py", line 784, in _call_after
+    self.after(error)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 155, in after_playing
+    os.remove(next_song.file_path)  # Delete file after playing
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\The_Shins_-_Simple_Song_Video.m4a'
+2025-02-05 15:34:59,377 - INFO - ffmpeg process 20028 has not terminated. Waiting to terminate...
+2025-02-05 15:34:59,380 - INFO - ffmpeg process 20028 should have terminated with a return code of 1.
+2025-02-05 15:35:04,124 - ERROR - Ignoring exception in command join
+Traceback (most recent call last):
+  File "C:\Users\domin\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 520, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 407, in _inner_connect
+    await self._wait_for_state(ConnectionFlowState.got_both_voice_updates)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 559, in _wait_for_state
+    await sane_wait_for([self._state_event.wait()], timeout=timeout)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\utils.py", line 714, in sane_wait_for
+    done, pending = await asyncio.wait(ensured, timeout=timeout, return_when=asyncio.ALL_COMPLETED)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 464, in wait
+    return await _wait(fs, timeout, return_when, loop)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 550, in _wait
+    await waiter
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 183, in join
+    await channel.connect()
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\abc.py", line 1966, in connect
+    await voice.connect(timeout=timeout, reconnect=reconnect, self_deaf=self_deaf, self_mute=self_mute)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_client.py", line 305, in connect
+    await self._connection.connect(
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 380, in connect
+    await self._connector
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 384, in _wrap_connect
+    await self._connect(*args)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 429, in _connect
+    await asyncio.wait_for(
+  File "C:\Users\domin\AppData\Local\Programs\Python\Python312\Lib\asyncio\tasks.py", line 519, in wait_for
+    async with timeouts.timeout(timeout):
+  File "C:\Users\domin\AppData\Local\Programs\Python\Python312\Lib\asyncio\timeouts.py", line 115, in __aexit__
+    raise TimeoutError from exc_val
+TimeoutError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TimeoutError: 
+2025-02-05 15:35:28,870 - ERROR - [£awica Ryb Tysi] yt-dlp Error: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\Vladimir_Putin_-_Putin_Putout_The_Unofficial_Russian_Anthem_by_Klemen_Slakonja.m4a' -> 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\Vladimir_Putin_-_Putin_Putout_The_Unofficial_Russian_Anthem_by_Klemen_Slakonja.m4a'
+2025-02-05 15:35:29,080 - INFO - [£awica Ryb Tysi] Playing: Vladimir Putin - Putin, Putout (The Unofficial Russian Anthem) by Klemen Slakonja (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Vladimir_Putin_-_Putin_Putout_The_Unofficial_Russian_Anthem_by_Klemen_Slakonja.m4a)
+2025-02-05 15:35:51,140 - INFO - [£awica Ryb Tysi] Finished playing: Vladimir Putin - Putin, Putout (The Unofficial Russian Anthem) by Klemen Slakonja
+2025-02-05 15:35:51,140 - ERROR - Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\player.py", line 784, in _call_after
+    self.after(error)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 155, in after_playing
+    os.remove(next_song.file_path)  # Delete file after playing
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\Vladimir_Putin_-_Putin_Putout_The_Unofficial_Russian_Anthem_by_Klemen_Slakonja.m4a'
+2025-02-05 15:35:51,142 - INFO - ffmpeg process 3712 has not terminated. Waiting to terminate...
+2025-02-05 15:35:51,144 - INFO - ffmpeg process 3712 should have terminated with a return code of 1.
+2025-02-05 15:36:15,219 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:36:19,691 - INFO - logging in using static token
+2025-02-05 15:36:20,718 - INFO - Shard ID None has connected to Gateway (Session ID: 17c2a34e7924cb8d52db9c2e1e6dd0a6).
+2025-02-05 15:36:23,137 - INFO - Connecting to voice...
+2025-02-05 15:36:23,137 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:36:23,365 - INFO - Voice handshake complete. Endpoint found: rotterdam11010.discord.media
+2025-02-05 15:36:23,662 - INFO - Voice connection complete.
+2025-02-05 15:36:52,323 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\The_Shins_-_Simple_Song_Video.m4a
+2025-02-05 15:36:52,330 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Vladimir_Putin_-_Putin_Putout_The_Unofficial_Russian_Anthem_by_Klemen_Slakonja.m4a
+2025-02-05 15:36:52,337 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Alan_Walker_-_Sing_Me_To_Sleep.m4a
+2025-02-05 15:36:52,746 - INFO - [£awica Ryb Tysi] Playing: The Shins - Simple Song (Video) (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\The_Shins_-_Simple_Song_Video.m4a)
+2025-02-05 15:37:29,908 - INFO - [£awica Ryb Tysi] Finished playing: The Shins - Simple Song (Video)
+2025-02-05 15:37:29,908 - ERROR - Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\player.py", line 784, in _call_after
+    self.after(error)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 155, in after_playing
+    os.remove(next_song.file_path)  # Delete file after playing
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\The_Shins_-_Simple_Song_Video.m4a'
+2025-02-05 15:37:29,909 - INFO - ffmpeg process 37328 has not terminated. Waiting to terminate...
+2025-02-05 15:37:29,912 - INFO - ffmpeg process 37328 should have terminated with a return code of 1.
+2025-02-05 15:37:51,282 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "queue" is not found
+2025-02-05 15:37:54,789 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "queue" is not found
+2025-02-05 15:37:58,134 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:43:01,617 - INFO - logging in using static token
+2025-02-05 15:43:02,587 - INFO - Shard ID None has connected to Gateway (Session ID: f29b23c7bc283fe8de251d703b999a54).
+2025-02-05 15:43:12,124 - INFO - Connecting to voice...
+2025-02-05 15:43:12,124 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:43:12,348 - INFO - Voice handshake complete. Endpoint found: rotterdam11010.discord.media
+2025-02-05 15:43:12,619 - INFO - Voice connection complete.
+2025-02-05 15:43:43,691 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\The_Shins_-_Simple_Song_Video.m4a
+2025-02-05 15:43:43,697 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Vladimir_Putin_-_Putin_Putout_The_Unofficial_Russian_Anthem_by_Klemen_Slakonja.m4a
+2025-02-05 15:43:43,703 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Alan_Walker_-_Sing_Me_To_Sleep.m4a
+2025-02-05 15:43:44,560 - INFO - [£awica Ryb Tysi] Playing: The Shins - Simple Song (Video) (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\The_Shins_-_Simple_Song_Video.m4a)
+2025-02-05 15:44:03,463 - INFO - [£awica Ryb Tysi] Finished playing: The Shins - Simple Song (Video)
+2025-02-05 15:44:03,463 - ERROR - Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\player.py", line 784, in _call_after
+    self.after(error)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 155, in after_playing
+    os.remove(next_song.file_path)  # Delete file after playing
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\The_Shins_-_Simple_Song_Video.m4a'
+2025-02-05 15:44:03,464 - INFO - ffmpeg process 4596 has not terminated. Waiting to terminate...
+2025-02-05 15:44:03,467 - INFO - ffmpeg process 4596 should have terminated with a return code of 1.
+2025-02-05 15:48:56,336 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:49:00,564 - INFO - logging in using static token
+2025-02-05 15:49:01,591 - INFO - Shard ID None has connected to Gateway (Session ID: 0254af8befd6407be7218a058f2e5b9a).
+2025-02-05 15:49:14,456 - INFO - Connecting to voice...
+2025-02-05 15:49:14,456 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:49:14,686 - INFO - Voice handshake complete. Endpoint found: rotterdam11010.discord.media
+2025-02-05 15:49:14,972 - INFO - Voice connection complete.
+2025-02-05 15:49:46,678 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\The_Shins_-_Simple_Song_Video.m4a
+2025-02-05 15:49:46,683 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Vladimir_Putin_-_Putin_Putout_The_Unofficial_Russian_Anthem_by_Klemen_Slakonja.m4a
+2025-02-05 15:49:46,690 - INFO - Downloaded file successfully: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Alan_Walker_-_Sing_Me_To_Sleep.m4a
+2025-02-05 15:49:47,633 - INFO - [£awica Ryb Tysi] Playing: The Shins - Simple Song (Video) (C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\The_Shins_-_Simple_Song_Video.m4a)
+2025-02-05 15:49:59,955 - INFO - [£awica Ryb Tysi] Finished playing: The Shins - Simple Song (Video)
+2025-02-05 15:49:59,955 - ERROR - Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\player.py", line 784, in _call_after
+    self.after(error)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 156, in after_playing
+    os.remove(next_song.file_path)  # Delete file after playing
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\The_Shins_-_Simple_Song_Video.m4a'
+2025-02-05 15:49:59,956 - INFO - ffmpeg process 42752 has not terminated. Waiting to terminate...
+2025-02-05 15:49:59,959 - INFO - ffmpeg process 42752 should have terminated with a return code of 1.
+2025-02-05 15:50:06,177 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "queue" is not found
+2025-02-05 15:53:00,153 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:53:12,231 - INFO - logging in using static token
+2025-02-05 15:53:13,170 - INFO - Shard ID None has connected to Gateway (Session ID: 024b7d58a1d7c7785bb9f78cb1a166f9).
+2025-02-05 15:53:18,256 - INFO - Connecting to voice...
+2025-02-05 15:53:18,256 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:53:18,492 - INFO - Voice handshake complete. Endpoint found: rotterdam11010.discord.media
+2025-02-05 15:53:18,769 - INFO - Voice connection complete.
+2025-02-05 15:54:00,225 - ERROR - Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\player.py", line 784, in _call_after
+    self.after(error)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 123, in after_playing
+    os.remove(next_song.file_path)
+PermissionError: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\The_Shins_-_Simple_Song_Video.m4a'
+2025-02-05 15:54:00,226 - INFO - ffmpeg process 18672 has not terminated. Waiting to terminate...
+2025-02-05 15:54:00,229 - INFO - ffmpeg process 18672 should have terminated with a return code of 1.
+2025-02-05 15:56:49,371 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 15:56:53,697 - INFO - logging in using static token
+2025-02-05 15:56:54,643 - INFO - Shard ID None has connected to Gateway (Session ID: fa61bf113fdc8d972d8705a501f7d050).
+2025-02-05 15:56:57,827 - INFO - Connecting to voice...
+2025-02-05 15:56:57,827 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 15:56:58,062 - INFO - Voice handshake complete. Endpoint found: rotterdam11010.discord.media
+2025-02-05 15:56:58,350 - INFO - Voice connection complete.
+2025-02-05 15:57:23,071 - ERROR - Calling the after function failed.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\player.py", line 784, in _call_after
+    self.after(error)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 126, in after_playing
+    os.remove(next_song.file_path)
+PermissionError: [WinError 32] Proces nie mo¿e uzyskaæ dostêpu do pliku, poniewa¿ jest on u¿ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\The_Shins_-_Simple_Song_Video.m4a'
+2025-02-05 15:57:23,073 - INFO - ffmpeg process 38864 has not terminated. Waiting to terminate...
+2025-02-05 15:57:23,076 - INFO - ffmpeg process 38864 should have terminated with a return code of 1.
+2025-02-05 16:50:09,437 - INFO - Shard ID None has successfully RESUMED session fa61bf113fdc8d972d8705a501f7d050.
+2025-02-05 18:12:16,121 - INFO - Shard ID None has successfully RESUMED session fa61bf113fdc8d972d8705a501f7d050.
+2025-02-05 18:39:40,072 - INFO - Shard ID None has successfully RESUMED session fa61bf113fdc8d972d8705a501f7d050.
+2025-02-05 18:57:03,960 - INFO - Shard ID None has successfully RESUMED session fa61bf113fdc8d972d8705a501f7d050.
+2025-02-05 19:18:44,777 - INFO - Shard ID None has successfully RESUMED session fa61bf113fdc8d972d8705a501f7d050.
+2025-02-05 21:00:28,117 - INFO - Shard ID None has successfully RESUMED session fa61bf113fdc8d972d8705a501f7d050.
+2025-02-05 21:34:48,697 - ERROR - Disconnected from voice... Reconnecting in 2.00s.
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\voice_state.py", line 598, in _poll_voice_ws
+    await self.ws.poll_event()
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\gateway.py", line 1037, in poll_event
+    raise ConnectionClosed(self.ws, shard_id=None, code=self._close_code)
+discord.errors.ConnectionClosed: Shard ID None WebSocket closed with 1006
+2025-02-05 21:34:50,786 - INFO - The voice handshake is being terminated for Channel ID 851846515835404299 (Guild ID 851846388383875133)
+2025-02-05 21:34:50,792 - INFO - Connecting to voice...
+2025-02-05 21:34:50,792 - INFO - Starting voice handshake... (connection attempt 1)
+2025-02-05 21:34:51,026 - INFO - Voice handshake complete. Endpoint found: rotterdam11011.discord.media
+2025-02-05 21:34:51,478 - INFO - Voice connection complete.
+2025-02-05 22:19:46,057 - INFO - Shard ID None has successfully RESUMED session fa61bf113fdc8d972d8705a501f7d050.
+2025-02-05 23:41:57,132 - INFO - Shard ID None has successfully RESUMED session fa61bf113fdc8d972d8705a501f7d050.
+2025-02-06 00:45:22,387 - INFO - Shard ID None has successfully RESUMED session fa61bf113fdc8d972d8705a501f7d050.
+2025-02-06 01:21:41,878 - INFO - Shard ID None has successfully RESUMED session fa61bf113fdc8d972d8705a501f7d050.
+2025-03-23 00:13:51,374 - INFO - logging in using static token
+2025-03-23 00:13:52,593 - INFO - Shard ID None has connected to Gateway (Session ID: b94f235fe31e9a214eebaaf99f319202).
+2025-03-23 00:15:09,512 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "siata" is not found
+2025-03-23 00:58:07,197 - INFO - logging in using static token
+2025-03-23 00:58:08,261 - INFO - Shard ID None has connected to Gateway (Session ID: 16a00e6625e6f5e68a2467ef0a38a210).
+2025-03-23 00:58:14,457 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "siatka" is not found
+2025-03-23 00:58:45,127 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 00:59:09,837 - INFO - logging in using static token
+2025-03-23 00:59:10,941 - INFO - Shard ID None has connected to Gateway (Session ID: ab4119dfbb7cb4bf16b4a6260f883450).
+2025-03-23 00:59:17,261 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 00:59:31,379 - INFO - logging in using static token
+2025-03-23 00:59:32,463 - INFO - Shard ID None has connected to Gateway (Session ID: 71649d6f4f1b04db629323823e0f1bcd).
+2025-03-23 00:59:34,510 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:01:00,122 - INFO - logging in using static token
+2025-03-23 01:01:01,381 - INFO - Shard ID None has connected to Gateway (Session ID: 8f048ac64d56a55b135278b642eb7cb5).
+2025-03-23 01:01:03,333 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:04:52,663 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:05:16,879 - INFO - logging in using static token
+2025-03-23 01:05:18,337 - INFO - Shard ID None has connected to Gateway (Session ID: 87d1ee86aa0968f7f540ee511a619c8e).
+2025-03-23 01:05:22,711 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:06:59,557 - INFO - logging in using static token
+2025-03-23 01:07:00,732 - INFO - Shard ID None has connected to Gateway (Session ID: 0f5fbabf2ed8ae5e5cee88042d10063b).
+2025-03-23 01:07:02,788 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:11:08,436 - INFO - logging in using static token
+2025-03-23 01:11:09,537 - INFO - Shard ID None has connected to Gateway (Session ID: 4766617f95e02e489afafd1b08eaf778).
+2025-03-23 01:11:12,205 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:11:33,866 - INFO - logging in using static token
+2025-03-23 01:11:35,212 - INFO - Shard ID None has connected to Gateway (Session ID: 905fb49325fc087443bc9518a7b34f41).
+2025-03-23 01:11:37,217 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:11:38,372 - ERROR - Ignoring exception in command siata
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 235, in wrapped
+    ret = await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\bot\app.py", line 291, in siata
+    await ctx.print(i)
+          ^^^^^^^^^
+AttributeError: 'Context' object has no attribute 'print'. Did you mean: 'pins'?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\bot.py", line 1366, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 1029, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\domin\PycharmProjects\DiscordBot\.venv\Lib\site-packages\discord\ext\commands\core.py", line 244, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: AttributeError: 'Context' object has no attribute 'print'
+2025-03-23 01:11:48,372 - INFO - logging in using static token
+2025-03-23 01:11:49,544 - INFO - Shard ID None has connected to Gateway (Session ID: 7b82e6b3bc6688a6f5aed71452ec5a97).
+2025-03-23 01:11:50,986 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:16:37,313 - INFO - logging in using static token
+2025-03-23 01:16:38,365 - INFO - Shard ID None has connected to Gateway (Session ID: 6bbb3408ee448134ef215ada02a67fb9).
+2025-03-23 01:16:42,183 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:18:15,469 - INFO - logging in using static token
+2025-03-23 01:18:16,536 - INFO - Shard ID None has connected to Gateway (Session ID: 07ed4ecb1772e97be65d8965b37bf2a8).
+2025-03-23 01:18:18,316 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:18:35,757 - INFO - logging in using static token
+2025-03-23 01:18:36,870 - INFO - Shard ID None has connected to Gateway (Session ID: bb084de2882339e0b93bb801b1f65598).
+2025-03-23 01:18:43,581 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:19:33,818 - INFO - logging in using static token
+2025-03-23 01:19:35,073 - INFO - Shard ID None has connected to Gateway (Session ID: adb11f0f21982d3a32ad168c1e0c32a7).
+2025-03-23 01:21:19,269 - INFO - logging in using static token
+2025-03-23 01:21:20,308 - INFO - Shard ID None has connected to Gateway (Session ID: 9369fb5fb5d1ce8dd8aa0fda0c302f05).
+2025-03-23 01:21:24,005 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:21:43,996 - INFO - logging in using static token
+2025-03-23 01:21:45,069 - INFO - Shard ID None has connected to Gateway (Session ID: 9588c4bd70db47e688138fef15e8367f).
+2025-03-23 01:21:46,464 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:22:09,894 - INFO - logging in using static token
+2025-03-23 01:22:11,193 - INFO - Shard ID None has connected to Gateway (Session ID: 067fd82689d003ea1cef6143435277c0).
+2025-03-23 01:22:20,314 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:23:27,462 - INFO - logging in using static token
+2025-03-23 01:23:28,718 - INFO - Shard ID None has connected to Gateway (Session ID: 51f313be17e989c551d251b857ab5407).
+2025-03-23 01:23:32,218 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:23:58,493 - INFO - logging in using static token
+2025-03-23 01:23:59,645 - INFO - Shard ID None has connected to Gateway (Session ID: ea32d2d47ffff7e834ad9b3f8c800fcb).
+2025-03-23 01:24:08,070 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:24:14,346 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:28:23,340 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:28:45,946 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:44:28,441 - INFO - logging in using static token
+2025-03-23 01:44:29,606 - INFO - Shard ID None has connected to Gateway (Session ID: da03163763dc89a1c8f376c1b7d4dada).
+2025-03-23 01:44:38,443 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 01:46:37,671 - INFO - logging in using static token
+2025-03-23 01:46:38,722 - INFO - Shard ID None has connected to Gateway (Session ID: 3c99230a27f1f64a77203362c4a9638c).
+2025-03-23 01:46:48,439 - INFO - Connecting to voice...
+2025-03-23 01:46:48,439 - INFO - Starting voice handshake... (connection attempt 1)
+2025-03-23 01:46:48,672 - INFO - Voice handshake complete. Endpoint found: rotterdam1032.discord.media
+2025-03-23 01:46:49,004 - INFO - Voice connection complete.
+2025-03-23 01:48:48,671 - INFO - The voice handshake is being terminated for Channel ID 851847003898118144 (Guild ID 851846388383875133)
+2025-03-23 01:48:48,679 - ERROR - Error deleting file: C:\Users\domin\PycharmProjects\DiscordBot\bot\downloads\Young_Leosia_-_Szklanki.m4a, [WinError 32] Proces nie moÅ¼e uzyskaÄ‡ dostÄ™pu do pliku, poniewaÅ¼ jest on uÅ¼ywany przez inny proces: 'C:\\Users\\domin\\PycharmProjects\\DiscordBot\\bot\\downloads\\Young_Leosia_-_Szklanki.m4a'
+2025-03-23 01:48:48,679 - INFO - ffmpeg process 53144 has not terminated. Waiting to terminate...
+2025-03-23 01:48:48,679 - ERROR - Error during playback: Not connected to voice.
+2025-03-23 01:48:48,682 - INFO - ffmpeg process 53144 should have terminated with a return code of 1.
+2025-03-23 01:48:49,010 - INFO - ffmpeg process 67292 has not terminated. Waiting to terminate...
+2025-03-23 01:48:49,014 - INFO - ffmpeg process 67292 should have terminated with a return code of 1.
+2025-03-23 01:53:01,318 - INFO - logging in using static token
+2025-03-23 01:53:02,439 - INFO - Shard ID None has connected to Gateway (Session ID: 952a3eb5d3bcbf3008078132795a9b1c).
+2025-03-23 01:53:11,465 - INFO - file_cache is only supported with oauth2client<4.0.0
