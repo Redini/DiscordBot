@@ -825,3 +825,10 @@ discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Att
 2025-03-23 01:53:01,318 - INFO - logging in using static token
 2025-03-23 01:53:02,439 - INFO - Shard ID None has connected to Gateway (Session ID: 952a3eb5d3bcbf3008078132795a9b1c).
 2025-03-23 01:53:11,465 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 02:48:10,202 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 02:48:10,283 - INFO - logging in using static token
+2025-03-23 02:49:42,843 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 02:49:42,922 - INFO - logging in using static token
+2025-03-23 02:49:44,031 - INFO - Shard ID None has connected to Gateway (Session ID: e97eae101181ee46723de77e6d127570).
+2025-03-23 02:50:01,010 - INFO - "GET /?state=1l9a4UmZrkzvXW7xpLjceavBRu3mib&code=4/0AQSTgQGgjSPbicPQThtvfQHBo0UiSZMec9FtRYpC2FqoLmbf7t1PJQU0-dja0QnlS6MNVg&scope=https://www.googleapis.com/auth/spreadsheets.readonly HTTP/1.1" 200 65
+2025-03-23 02:50:01,201 - INFO - file_cache is only supported with oauth2client<4.0.0
