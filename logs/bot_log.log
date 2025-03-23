@@ -832,3 +832,14 @@ discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Att
 2025-03-23 02:49:44,031 - INFO - Shard ID None has connected to Gateway (Session ID: e97eae101181ee46723de77e6d127570).
 2025-03-23 02:50:01,010 - INFO - "GET /?state=1l9a4UmZrkzvXW7xpLjceavBRu3mib&code=4/0AQSTgQGgjSPbicPQThtvfQHBo0UiSZMec9FtRYpC2FqoLmbf7t1PJQU0-dja0QnlS6MNVg&scope=https://www.googleapis.com/auth/spreadsheets.readonly HTTP/1.1" 200 65
 2025-03-23 02:50:01,201 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 02:53:23,903 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 02:53:23,986 - INFO - logging in using static token
+2025-03-23 02:53:25,195 - INFO - Shard ID None has connected to Gateway (Session ID: 091564ca32ca410b3857a387ba6d9f21).
+2025-03-23 12:23:35,223 - WARNING - Shard ID None has stopped responding to the gateway. Closing and restarting.
+2025-03-23 12:23:35,659 - INFO - Shard ID None session has been invalidated.
+2025-03-23 12:23:41,352 - INFO - Shard ID None has connected to Gateway (Session ID: ea8389fa3d1c10e2f4f386606de98229).
+2025-03-23 12:54:25,187 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 13:15:27,854 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-03-23 13:15:27,951 - INFO - logging in using static token
+2025-03-23 13:15:29,063 - INFO - Shard ID None has connected to Gateway (Session ID: 5d9674d2aa33ce1a165c040479e9fc77).
+2025-03-23 13:15:33,868 - INFO - file_cache is only supported with oauth2client<4.0.0
