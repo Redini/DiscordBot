@@ -843,3 +843,4 @@ discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Att
 2025-03-23 13:15:27,951 - INFO - logging in using static token
 2025-03-23 13:15:29,063 - INFO - Shard ID None has connected to Gateway (Session ID: 5d9674d2aa33ce1a165c040479e9fc77).
 2025-03-23 13:15:33,868 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-23 13:31:33,224 - INFO - Shard ID None session has been invalidated.
