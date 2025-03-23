@@ -3,7 +3,6 @@ asyncio
 
 logging
 yt_dlp
-dotenv
 random
 
 
