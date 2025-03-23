@@ -17,7 +17,6 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 # --- 1. Configuration and Secrets Management ---
-load_dotenv(dotenv_path="tokes.env")
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 if not DISCORD_TOKEN:
     print("CRITICAL: Discord token not found in environment variables!")
